@@ -1,6 +1,7 @@
 {
-  "name": "usdt|",
-  "symbol": "usdt1",
+  "address": "TJkQBoCUVckDhv8V3t1M3HRSxErHvrrW5h",
+  "name": "USDT",
+  "symbol": "USDT",
   "decimals": 6,
   "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=040",
   "website": "https://cryptologos.cc/tether"
