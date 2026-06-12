@@ -3,7 +3,7 @@
   "name": "USDT",
   "symbol": "USDT",
   "decimals": 6,
-  "logoURI": "https://imgur.com/a/CN5ByvW#Rbr9vQm",
+  "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=040",
   "website": "https://raw.githubusercontent.com/jul2345/token/refs/heads/main/token"
   "demoPriceUSD": "1"
 }
